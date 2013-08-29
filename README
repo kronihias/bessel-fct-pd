@@ -1,0 +1,26 @@
+
+Bessel functions for Pure Data
+jn and yn
+
+======================================
+pure data external for computing first (Jn) and second (Yn) kind Bessel functions (using math.h)
+
+
+(C) 2013 by Matthias Kronlachner
+__________________________________________________________
+
+
+_______________
+:::CHANGELOG:::
+
+
+ ________________
+:::KNOWN BUGS:::
+
+
+ ________________
+:::THINGS TO DO:::
+
+
+questions: m.kronlachner@gmail.com
+
